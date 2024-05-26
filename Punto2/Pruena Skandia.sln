@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmos", "Bingo\Algoritmos.csproj", "{53A99003-9049-4AFB-B30A-1263C46D7E0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numeros Primos", "Numeros Primos\Numeros Primos.csproj", "{DD6B36E3-665D-43B3-9AFC-85C8A3CCD1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A99003-9049-4AFB-B30A-1263C46D7E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A99003-9049-4AFB-B30A-1263C46D7E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A99003-9049-4AFB-B30A-1263C46D7E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A99003-9049-4AFB-B30A-1263C46D7E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6B36E3-665D-43B3-9AFC-85C8A3CCD1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6B36E3-665D-43B3-9AFC-85C8A3CCD1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6B36E3-665D-43B3-9AFC-85C8A3CCD1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6B36E3-665D-43B3-9AFC-85C8A3CCD1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54094DFC-F9F9-4CED-A477-1A277D9D8F77}
+	EndGlobalSection
+EndGlobal

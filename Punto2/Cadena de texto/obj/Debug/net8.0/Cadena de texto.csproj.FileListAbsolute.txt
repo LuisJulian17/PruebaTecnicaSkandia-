@@ -1,0 +1,14 @@
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\Cadena de texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\Cadena de texto.AssemblyInfoInputs.cache
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\Cadena de texto.AssemblyInfo.cs
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\Cadena de texto.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\bin\Debug\net8.0\Cadena de texto.exe
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\bin\Debug\net8.0\Cadena de texto.deps.json
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\bin\Debug\net8.0\Cadena de texto.runtimeconfig.json
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\bin\Debug\net8.0\Cadena de texto.dll
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\bin\Debug\net8.0\Cadena de texto.pdb
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\Cadena de texto.dll
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\refint\Cadena de texto.dll
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\Cadena de texto.pdb
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\Cadena de texto.genruntimeconfig.cache
+C:\Users\luisj\Desktop\Pruena Skandia\Cadena de texto\obj\Debug\net8.0\ref\Cadena de texto.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Cadena de texto\\Cadena de texto.csproj": {}
+    "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Cadena de texto\\Cadena de texto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Cadena de texto\\Cadena de texto.csproj": {
+    "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Cadena de texto\\Cadena de texto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Cadena de texto\\Cadena de texto.csproj",
+        "projectUniqueName": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Cadena de texto\\Cadena de texto.csproj",
         "projectName": "Cadena de texto",
-        "projectPath": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Cadena de texto\\Cadena de texto.csproj",
+        "projectPath": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Cadena de texto\\Cadena de texto.csproj",
         "packagesPath": "C:\\Users\\luisj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Cadena de texto\\obj\\",
+        "outputPath": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Cadena de texto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisj\\AppData\\Roaming\\NuGet\\NuGet.Config"

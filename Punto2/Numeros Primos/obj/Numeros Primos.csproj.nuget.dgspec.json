@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Numeros Primos\\Numeros Primos.csproj": {}
+    "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Numeros Primos\\Numeros Primos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Numeros Primos\\Numeros Primos.csproj": {
+    "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Numeros Primos\\Numeros Primos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Numeros Primos\\Numeros Primos.csproj",
+        "projectUniqueName": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Numeros Primos\\Numeros Primos.csproj",
         "projectName": "Numeros Primos",
-        "projectPath": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Numeros Primos\\Numeros Primos.csproj",
+        "projectPath": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Numeros Primos\\Numeros Primos.csproj",
         "packagesPath": "C:\\Users\\luisj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Numeros Primos\\obj\\",
+        "outputPath": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Numeros Primos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisj\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -12,3 +12,18 @@ C:\Users\luisj\Desktop\Pruena Skandia\Algoritmos\obj\Debug\net8.0\refint\Algorit
 C:\Users\luisj\Desktop\Pruena Skandia\Algoritmos\obj\Debug\net8.0\Algoritmos.pdb
 C:\Users\luisj\Desktop\Pruena Skandia\Algoritmos\obj\Debug\net8.0\Algoritmos.genruntimeconfig.cache
 C:\Users\luisj\Desktop\Pruena Skandia\Algoritmos\obj\Debug\net8.0\ref\Algoritmos.dll
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\bin\Debug\net8.0\Algoritmos.exe
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\bin\Debug\net8.0\Algoritmos.deps.json
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\bin\Debug\net8.0\Algoritmos.runtimeconfig.json
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\bin\Debug\net8.0\Algoritmos.dll
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\bin\Debug\net8.0\Algoritmos.pdb
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\Algoritmos.AssemblyInfoInputs.cache
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\Algoritmos.AssemblyInfo.cs
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\Algoritmos.sourcelink.json
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\Algoritmos.dll
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\refint\Algoritmos.dll
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\Algoritmos.pdb
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\Algoritmos.genruntimeconfig.cache
+C:\Users\luisj\OneDrive\Escritorio\Prueba\Punto2\Bingo\obj\Debug\net8.0\ref\Algoritmos.dll

@@ -42,7 +42,7 @@ JOIN
     persona_unificada p ON cau.usuId = p.usuId
 WHERE
     mca.tipo_movimiento = 'RETIRO'
-    AND mca.fecha_transaccion BETWEEN '2024-01-01' AND '2024-05-31'  -- Período determinado
+    AND mca.fecha_transaccion BETWEEN '2024-01-01' AND '2024-05-31' 
 GROUP BY
     p.nombres, p.tipo_usuario, ca.numero_cuenta
 ORDER BY

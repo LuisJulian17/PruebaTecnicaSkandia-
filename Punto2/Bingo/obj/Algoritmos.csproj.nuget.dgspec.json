@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Bingo\\Algoritmos.csproj": {}
+    "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Bingo\\Algoritmos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Bingo\\Algoritmos.csproj": {
+    "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Bingo\\Algoritmos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Bingo\\Algoritmos.csproj",
+        "projectUniqueName": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Bingo\\Algoritmos.csproj",
         "projectName": "Algoritmos",
-        "projectPath": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Bingo\\Algoritmos.csproj",
+        "projectPath": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Bingo\\Algoritmos.csproj",
         "packagesPath": "C:\\Users\\luisj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisj\\Desktop\\Pruena Skandia\\Bingo\\obj\\",
+        "outputPath": "C:\\Users\\luisj\\OneDrive\\Escritorio\\Prueba\\Punto2\\Bingo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisj\\AppData\\Roaming\\NuGet\\NuGet.Config"

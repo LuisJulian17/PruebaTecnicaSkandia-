@@ -21,6 +21,7 @@ CREATE TABLE usuario_rol (
     nombres VARCHAR(100),
     tipo_usuario VARCHAR(50) NOT NULL CHECK (tipo_usuario IN ('natural', 'juridica')),
     rol VARCHAR(50),
+	id_empresa INT NOT NULL,
     FOREIGN KEY (numero_identificacion) REFERENCES persona_unificada(numero_documento)
 );
 
@@ -36,11 +37,11 @@ CREATE TABLE representante_legal (
 );
 
 CREATE TABLE composicion_accionaria (
+	id INT IDENTITY(1,1) PRIMARY KEY,
     empresa_id INT NOT NULL,
     accionista_id INT NOT NULL,
     accionista_numero_documento VARCHAR(50) NOT NULL,
     accionista_nombres VARCHAR(100),
-    PRIMARY KEY (empresa_id, accionista_id),
     FOREIGN KEY (empresa_id) REFERENCES persona_unificada(usuId),
     FOREIGN KEY (accionista_id) REFERENCES persona_unificada(usuId)
 );
@@ -111,17 +112,17 @@ VALUES
     (3, '9999999999', NULL, NULL, 'juridica', 'Empresa XYZ Ltda.', 'SAS', 'Valle del Cauca', 'Cali'),
     (1, '0000000000', 'Javier', 'Pérez', 'natural', NULL, NULL, 'Antioquia', 'Medellín');
 
-INSERT INTO usuario_rol (numero_identificacion, tipo_identificacion, nombres, tipo_usuario, rol)
+INSERT INTO usuario_rol (numero_identificacion, tipo_identificacion, nombres, tipo_usuario, rol, id_empresa)
 VALUES
-    ('1111111111', 1, 'Pedro García', 'natural', 'clientes persona natural'),
-    ('2222222222', 2, 'Ana Martínez', 'natural', 'representantes legales'),
-    ('4444444444', 1, 'Carlos Rodríguez', 'natural', 'proveedores'),
-    ('5555555555', 2, 'Luisa López', 'natural', 'proveedores'),
-    ('6666666666', 1, 'Marcela Herrera', 'natural', 'proveedores'),
-    ('7777777777', 1, 'Andrés Díaz', 'natural', 'clientes persona natural'),
-    ('8888888888', 2, 'Laura Gómez', 'natural', 'clientes persona natural'),
-    ('0000000000', 1, 'Javier Pérez', 'natural', 'accionistas'),
-    ('0000000000', 1, 'Javier Pérez', 'natural', 'representantes legales');
+    ('1111111111', 1, 'Pedro García', 'natural', 'clientes persona natural' , 3),
+    ('2222222222', 2, 'Ana Martínez', 'natural', 'representantes legales' , 3),
+    ('4444444444', 1, 'Carlos Rodríguez', 'natural', 'proveedores' , 3),
+    ('5555555555', 2, 'Luisa López', 'natural', 'proveedores' , 9),
+    ('6666666666', 1, 'Marcela Herrera', 'natural', 'proveedores' , 9),
+    ('7777777777', 1, 'Andrés Díaz', 'natural', 'clientes persona natural' , 3),
+    ('8888888888', 2, 'Laura Gómez', 'natural', 'clientes persona natural' , 3),
+    ('0000000000', 1, 'Javier Pérez', 'natural', 'accionistas' , 9),
+    ('0000000000', 1, 'Javier Pérez', 'natural', 'representantes legales' , 3);
 
 INSERT INTO representante_legal (empresa_id, representante_id, representante_numero_documento, representante_nombres, razon_social_empresa)
 VALUES

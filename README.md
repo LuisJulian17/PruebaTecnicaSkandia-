@@ -1,4 +1,4 @@
-# PruebaTecnicaComWCF
+# PruebaTecnicaSkandia
 > Prueba técnica con documento Word (Conceptos básicos), algoritmos en C# y análisis de modelado de datos en SQL Server
 > - Autor: JULIAN
 > - Duración del proyecto: del sábado 25 de mayo al domingo 26 de mayo

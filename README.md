@@ -29,9 +29,9 @@
 * En el caso de `Cadena de texto`, el usuario debe escribir palabras y presionar enter para ver el resultado
 
 ### Análisis de modelado de datos
-* Abrir la carpeta `Punto3` donde encontrarás dos scripts (`Base_de_datos_acme_inser_data.sql`, `consultas_de_SQL.sql`) y el diagrama entidad-relación de la base de datos (`Diagrama_Entidad_Relacion.svg`)
+* Abrir la carpeta `Punto3` donde encontrarás dos scripts (`Base_de_datos_acme_inser_data.sql`, `consultas_de_SQL.sql`) y el diagrama entidad-relación de la base de datos (`Diagrama entidad Relacion.png`)
 * Abrir y ejecutar el script `Base_de_datos_acme_inser_data.sql` en SQL Server (esto creará la base de datos, las tablas y insertará algunos datos para pruebas)
 * Abrir y ejecutar el script `consultas_de_SQL.sql` según sea necesario (este script corresponde a los puntos 2.1 hasta 2.7)
-* El archivo `Diagrama_Entidad_Relacion.svg` contiene el diagrama entidad-relación de la base de datos
+* El archivo `Diagrama entidad Relacion.png` contiene el diagrama entidad-relación de la base de datos
 
 Para saber más sobre mis habilidades y proyectos, puedes visitar mi [**portafolio**](https://julianrodriguezportfolio.netlify.app/ "portafolio").
